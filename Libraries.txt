@@ -1,0 +1,11 @@
+weather-api
+SpeachRecognition
+pyAudio
+pywin32
+webbrowser
+feedparser
+BeautifulSoup
+wxpython
+requests
+wikipedia
+wolframalph
